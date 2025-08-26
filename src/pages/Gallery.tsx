@@ -61,17 +61,23 @@ const Gallery = () => {
       thumbnail: 'https://www.trimbakeshwarpooja.co.in/wp-content/uploads/2024/10/bg2.webp'
     },
     {
-      src: 'vid3',
+      src: '/vid3.mp4',
       title: 'Puja Ceremony',
       description: 'Traditional Puja ceremony',
       thumbnail: '/3.jpeg'
     },
-    // {
-    //   src: 'https://player.vimeo.com/video/742374052?h=c0f23e3e93',
-    //   title: 'Puja Ritual',
-    //   description: 'Sacred Rudra Abhishek puja ceremony',
-    //   thumbnail: 'https://images.pexels.com/photos/6045269/pexels-photo-6045269.jpeg?auto=compress&cs=tinysrgb&w=400'
-    // }
+    {
+      src: '/vid4.mp4',
+      title: 'Puja Ritual',
+      description: 'Sacred Rudra Abhishek puja ceremony',
+      thumbnail: '/img1.jpg'
+    },
+    {
+      src: '/vid5.mp4',
+      title: 'Puja Ritual',
+      description: 'Sacred Rudra Abhishek puja ceremony',
+      thumbnail: '/img2.jpeg'
+    },
   ];
 
   return (

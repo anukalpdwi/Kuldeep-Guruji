@@ -61,7 +61,7 @@ const Home = () => {
       name: 'Rudra Abhishek',
       description: 'Divine blessing puja for Lord Shiva devotees',
       // price: '₹2,100',
-      image: 'https://trimbakeshwarkaalsarppuja.com/wp-content/uploads/2024/04/rudra-abhishek-puja-bg.jpg'
+      image: 'img1.jpg'
     }
   ];
 
@@ -109,7 +109,7 @@ const Home = () => {
       alt: 'Divine abhishek ceremony for Lord Shiva'
     },
     {
-      src: '/5.jpeg',
+      src: '/img2.jpeg',
       title: 'Vedic Fire Ritual',
       alt: 'Sacred fire ceremony with traditional mantras'
     },
@@ -119,7 +119,7 @@ const Home = () => {
       alt: 'Beautiful architecture of Trimbakeshwar Temple'
     },
     {
-      src: '/7.jpeg',
+      src: '/img1.jpg',
       title: 'Spiritual Gathering',
       alt: 'Devotees gathering for sacred ceremonies'
     },
@@ -132,7 +132,7 @@ const Home = () => {
       src: 'https://panditvinayakguruji.com/wp-content/uploads/2022/07/kal-sharp-puja-1024x576.jpg',
       title: 'Sacred Rituals',
       alt: 'Traditional Vedic rituals being performed'
-    }
+    },
   ];
 
   return (
@@ -240,7 +240,7 @@ const Home = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-4">
-              Why Choose Pandit Vijay Narayan Shastri?
+              Why Choose Pandit Kuldeep Guruji?
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
               Authentic Vedic rituals performed with complete dedication and proper knowledge
@@ -437,7 +437,7 @@ const Home = () => {
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="tel:+919049415364"
+              href="tel:+918208873507"
               className="flex items-center justify-center space-x-2 bg-white text-saffron-600 hover:bg-gray-100 px-8 py-4 rounded-full text-lg font-semibold transition-all duration-300 hover:scale-105 shadow-lg"
             >
               <Phone size={20} />

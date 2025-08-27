@@ -99,12 +99,12 @@ const Home = () => {
       alt: 'Sacred ceremony at the holy Trimbakeshwar Jyotirlinga temple'
     },
     {
-      src: '/3.jpeg',
+      src: '/new1.jpeg',
       title: 'Narayan Nagbali Puja',
       alt: 'Special Narayan Nagbali puja for spiritual liberation'
     },
     {
-      src: '/4.jpeg',
+      src: '/new2.jpeg',
       title: 'Rudra Abhishek',
       alt: 'Divine abhishek ceremony for Lord Shiva'
     },

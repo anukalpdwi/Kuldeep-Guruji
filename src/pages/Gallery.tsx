@@ -21,12 +21,12 @@ const Gallery = () => {
       description: 'Special Narayan Nagbali puja for spiritual liberation'
     },
     {
-      src: '/4.jpeg',
+      src: '/new1.jpeg',
       title: 'Rudra Abhishek',
       description: 'Divine abhishek ceremony for Lord Shiva'
     },
     {
-      src: '/5.jpeg',
+      src: '/new2.jpeg',
       title: 'Vedic Fire Ritual',
       description: 'Sacred fire ceremony with traditional mantras'
     },
@@ -36,7 +36,7 @@ const Gallery = () => {
       description: 'Beautiful architecture of Trimbakeshwar Temple'
     },
     {
-      src: '/7.jpeg',
+      src: '/new3.jpeg',
       title: 'Spiritual Gathering',
       description: 'Devotees gathering for sacred ceremonies'
     },
